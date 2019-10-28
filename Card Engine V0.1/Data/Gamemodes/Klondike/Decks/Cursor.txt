@@ -1,0 +1,11 @@
+Variable
+Variable
+0
+15
+All
+All
+Descending
+Alternating
+Null
+Null
+False

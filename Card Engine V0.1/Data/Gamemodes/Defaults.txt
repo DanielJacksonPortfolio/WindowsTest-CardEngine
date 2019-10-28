@@ -1,0 +1,24 @@
+Decks
+
+PositionX/Variable/Null (off screen)
+PositionY/Variable/Null (off screen)
+XOffset
+YOffset
+Cards Displayed 	- 	All/Set Amount/Top/Bottom
+Face(Up) Settings 	-	All/None/Variable/Set Amount 
+Value Settings 		- 	Ascending/Descending/Same Value/Null
+Color Settings 		- 	Same/Different/Alternating/Null
+Suit Settings		- 	Same/Different/Set Suit/Null
+Sum Settings 		- 	Value/Null
+Can Have Face Down  - 	True/False
+Moving Settings 	- 	Set Amount/Variable/None/Null
+
+Card Packs
+
+CardW
+CardH
+CardBackFile
+CardFrontBaseFile
+CardTextFile
+CardSymbolFile
+CardSymbolLocations&Scales

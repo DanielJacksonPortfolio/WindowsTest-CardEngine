@@ -1,0 +1,11 @@
+530
+300
+0
+15
+All
+Variable
+Descending
+Alternating
+Null
+Null
+True
